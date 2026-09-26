@@ -1,3 +1,4 @@
+#!/bin/bash
 echo
 echo "Welcome to CNSE M57, I have been assigned to write a bash script for this class."
 sleep 3
